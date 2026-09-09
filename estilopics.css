@@ -15,12 +15,6 @@ body {
     background-repeat: no-repeat;
 }
 
-header {
-    background-image: url(ChatGPT\ Image\ 5\ de\ set.\ de\ 2026\,\ 16_56_44.png); width: 1000px;
-    height: 100px;
-
-}
-
 header h1 {
 background: linear-gradient(to right, var(--corvc1), var(--corvc3));
 -webkit-background-clip: text;
@@ -29,8 +23,7 @@ padding-top: 30px;
 font-family: var(--font1);
 font-style: italic;
 text-align: center;
-font-size: 60px;
-text-shadow: var(--corvc1) 2px 2px 2px 
+font-size: 60px
 }
 
 nav {
