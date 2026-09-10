@@ -16,8 +16,8 @@ body {
 }
 
 header {
-    background-image: url(vice\ city\ -\ Copia.jpeg)
-
+    background-image: url(vice\ city\ -\ Copia.jpeg);
+    background-position: center bottom;
 }
 
 header h1 {
